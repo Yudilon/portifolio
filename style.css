@@ -1,0 +1,12 @@
+
+.circular-img {
+	border-radius: 10%;
+}
+
+.cor-letra {
+	color: rgb(255, 255, 255);
+}
+
+.cor-letra:hover {
+	color: rgb(255, 0, 0);
+}
